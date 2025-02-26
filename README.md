@@ -11,8 +11,8 @@
 |4주차|선형회귀, 로지스틱회귀 알고리즘|[PPT](https://github.com/CSB-Songdo-International-Portfolio/2025-1_MLDL_course/blob/main/4week%20linear%2Clogistic_regression.pdf)|
 |5주차|KNN 문제점 해결 방안 및 로지스틱회귀 실습|[PPT](https://github.com/CSB-Songdo-International-Portfolio/2025-1_MLDL_course/blob/main/KNN%EA%B3%BC%20%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1.pdf)|
 |6주차|결정트리와 앙상블|[PPT](https://github.com/CSB-Songdo-International-Portfolio/2025-1_MLDL_course/blob/main/%EA%B2%B0%EC%A0%95%ED%8A%B8%EB%A6%AC%EC%99%80%20%EC%95%99%EC%83%81%EB%B8%94.pdf)|
-|7주차|Deep Neural Network and Deep Learning overview types|[PPT](https://github.com/CSB-Songdo-International-Portfolio/2025-1_MLDL_course/blob/main/7week%20%EB%B9%84%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5.pdf)|
-|8주차|CNN and Computer Vision|[PPT]()|
+|7주차|비지도학습 K-Means Cluster and PCA|[PPT](https://github.com/CSB-Songdo-International-Portfolio/2025-1_MLDL_course/blob/main/7week%20%EB%B9%84%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5.pdf)|
+|8주차|Deep Neural Network, CNN and Computer Vision|[PPT]()|
 |9주차|RNN, How to Generate(VAE, GAN)|[PPT]()|
 |10주차|강화학습 Q Value Table, Deep Q Network|[PPT]()|
 |11주차|트랜스포머, LLM 구조|[PPT]()|
