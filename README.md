@@ -16,6 +16,6 @@
 |7주차|비지도학습 K-Means Cluster and PCA|[PPT](https://github.com/CSB-Songdo-International-Portfolio/2025-1_MLDL_course/blob/main/7week%20%EB%B9%84%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5.pdf)|
 |8주차|Deep Neural Network, CNN and Computer Vision|[PPT](https://github.com/CSB-Songdo-International-Portfolio/2025-1_MLDL_course/blob/main/DNN%2C%20CNN%20Computer%20Vision.pdf)|
 |9주차|RNN, How to Generate(VAE, GAN)|[PPT](https://github.com/CSB-Songdo-International-Portfolio/2025-1_MLDL_course/blob/main/RNN.pdf)|
-|10주차|강화학습 Q Value Table, Deep Q Network|[PPT]()|
+|10주차|강화학습 Q Value Table, Deep Q Network|[PPT](https://github.com/CSB-Songdo-International-Portfolio/2025-1_MLDL_course/blob/main/10week%20RL.pdf)|
 |11주차|트랜스포머, LLM 구조|[PPT]()|
 |12주차|Generate Image(Stable diffusion)|[PPT]()|
