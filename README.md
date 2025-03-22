@@ -17,5 +17,5 @@
 |8주차|Deep Neural Network, CNN and Computer Vision|[PPT](https://github.com/CSB-Songdo-International-Portfolio/2025-1_MLDL_course/blob/main/DNN%2C%20CNN%20Computer%20Vision.pdf)|
 |9주차|RNN, How to Generate(VAE, GAN)|[PPT](https://github.com/CSB-Songdo-International-Portfolio/2025-1_MLDL_course/blob/main/RNN.pdf)|
 |10주차|강화학습 Q Value Table, Deep Q Network|[PPT](https://github.com/CSB-Songdo-International-Portfolio/2025-1_MLDL_course/blob/main/10week%20RL.pdf)|
-|11주차|트랜스포머, LLM 구조|[PPT]()|
+|11주차|트랜스포머, LLM 구조|[PPT](https://github.com/CSB-Songdo-International-Portfolio/2025-1_MLDL_course/blob/main/AI%2011%EC%A3%BC%EC%B0%A8%20LLM.pdf)|
 |12주차|Generate Image(Stable diffusion)|[PPT]()|
