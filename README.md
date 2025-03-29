@@ -15,7 +15,7 @@
 |6주차|결정트리와 앙상블|[PPT](https://github.com/CSB-Songdo-International-Portfolio/2025-1_MLDL_course/blob/main/%EA%B2%B0%EC%A0%95%ED%8A%B8%EB%A6%AC%EC%99%80%20%EC%95%99%EC%83%81%EB%B8%94.pdf)|
 |7주차|비지도학습 K-Means Cluster and PCA|[PPT](https://github.com/CSB-Songdo-International-Portfolio/2025-1_MLDL_course/blob/main/7week%20%EB%B9%84%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5.pdf)|
 |8주차|Deep Neural Network, CNN and Computer Vision|[PPT](https://github.com/CSB-Songdo-International-Portfolio/2025-1_MLDL_course/blob/main/DNN%2C%20CNN%20Computer%20Vision.pdf)|
-|9주차|RNN, How to Generate(VAE, GAN)|[PPT](https://github.com/CSB-Songdo-International-Portfolio/2025-1_MLDL_course/blob/main/RNN.pdf)|
+|9주차|RNN|[PPT](https://github.com/CSB-Songdo-International-Portfolio/2025-1_MLDL_course/blob/main/RNN.pdf)|
 |10주차|강화학습 Q Value Table, Deep Q Network|[PPT](https://github.com/CSB-Songdo-International-Portfolio/2025-1_MLDL_course/blob/main/10week%20RL.pdf)|
 |11주차|트랜스포머, LLM 구조|[PPT](https://github.com/CSB-Songdo-International-Portfolio/2025-1_MLDL_course/blob/main/AI%2011%EC%A3%BC%EC%B0%A8%20LLM.pdf)|
-|12주차|Generate Image(Stable diffusion)|[PPT](https://github.com/CSB-Songdo-International-Portfolio/2025-1_MLDL_course/blob/main/AI%2012%EC%A3%BC%EC%B0%A8%20Generation%20and%20Stable%20diffusion.pdf)|
+|12주차|Generate Image(VAE, GAN, Stable diffusion)|[PPT](https://github.com/CSB-Songdo-International-Portfolio/2025-1_MLDL_course/blob/main/AI%2012%EC%A3%BC%EC%B0%A8%20Generation%20and%20Stable%20diffusion.pdf)|
