@@ -31,4 +31,4 @@
 |3주차||[PPT]()|||
 |4주차||[PPT]()|||
 |5주차||[PPT]()|||
-|6주차||[PPT]()|||
+|6주차|LLM 활용(2)|[PPT](https://github.com/CSB-Songdo-International-Portfolio/2025-1_MLDL_course/blob/main/LLM%20활용특강(2)%20실습1.pdf)|||
