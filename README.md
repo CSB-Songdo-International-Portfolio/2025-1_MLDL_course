@@ -53,7 +53,7 @@
 |6주차|Object Detection||||
 |7주차|Stable Diffusion 파인튜닝||||
 |8주차|fast API, Gradio 라이브러리로 모델 배포||||
-|9주차|LLM 양자화||||
-|10주차|ViT||||
-|11주차|최신 모델 설명1||||
-|12주차|최신 모델 설명2||||
+|9주차|LLM Quantization||||
+|10주차|ViT & DiT||||
+|11주차|Autoregressive model||||
+|12주차|Absolute Zero: Reinforced Self-play Reasoning with Zero Data||||
