@@ -47,7 +47,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 |1주차|Tensorflow Quick Start|[PPT](https://github.com/CSB-Songdo-International-Portfolio/2025-1_MLDL_course/blob/main/AI%20실전%202주차%20-%20pytorch.pdf)|||
 |2주차|Pytorch Quick Start||||
-|3주차||[PPT]()|||
+|3주차|Transfer Learning|[PPT]()|||
 |4주차||[PPT]()|||
 |5주차|LLM 파인튜닝|[PPT]()|||
 |6주차|Object Detection||||
