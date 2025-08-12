@@ -55,5 +55,5 @@
 |8주차|fast API, Gradio 라이브러리로 모델 배포||||
 |9주차|LLM Quantization||||
 |10주차|ViT & DiT||||
-|11주차|Autoregressive model||||
+|11주차|MoE & K(Quick) Transformers Framework||||
 |12주차|Absolute Zero: Reinforced Self-play Reasoning with Zero Data||||
