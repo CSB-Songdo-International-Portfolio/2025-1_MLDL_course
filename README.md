@@ -59,4 +59,4 @@
 |9주차|LLM Quantization||||
 |10주차|ViT & DiT||||
 |11주차|MoE & K(Quick) Transformers Framework||||
-|12주차|Absolute Zero: Reinforced Self-play Reasoning with Zero Data||||
+|12주차|Text to Video Paper review (CogVideo, FlowDirector)||||
